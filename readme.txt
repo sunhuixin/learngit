@@ -8,3 +8,5 @@ hello world!
 ÄãºÃ£¬ÊÀ½ç£¡
 
 branch test!
+
+Creating a new branch is quick AND simple.
