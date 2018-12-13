@@ -9,4 +9,6 @@ hello world!
 
 branch test!
 
-Creating a new branch is quick & simple And very easy!
+
+Creating a new branch is quick & simple and very easy!
+
